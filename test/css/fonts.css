@@ -1,0 +1,9 @@
+@font-face {
+			font-family: "ArialRegular";
+			src: url("../fonts/ArialRegular/ArialRegular.eot");
+			src: url("../fonts/ArialRegular/ArialRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArialRegular/ArialRegular.woff") format("woff"),
+			url("../fonts/ArialRegular/ArialRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
